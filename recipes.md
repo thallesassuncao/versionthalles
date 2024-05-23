@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Ketchup
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -101,7 +102,8 @@ Ingredients:
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 10 cups semisweet chocolate chips
+### 1/2 cup milk
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
